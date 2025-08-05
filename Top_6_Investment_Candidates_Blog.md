@@ -5,7 +5,7 @@ By Emine Ceran - Financial Data Analyst in Training
 Introduction
 
 In today's data-driven financial world, we often find ourselves obsessed with numbers: revenue, net margins, PE ratios, debt levels.
-But the more I study investment analysis, the more I realize:
+But the more I study investment analysis, the more I realise:
 
 > Numbers are necessary, but not enough.
 
@@ -16,7 +16,7 @@ And sometimes, real investment insight comes from asking simple, human questions
 - "Is this brand accessible to both the wealthiest and the poorest?"
 - "Is this company truly sustainable, or just profitable?"
 
-This blog is my journey through both data and intuition — and how I chose 6 global companies to analyze based on both.
+This blog is my journey through both data and intuition and how I chose 6 global companies to analyse based on both.
 
 The Process: Filtering & Scoring
 
@@ -27,8 +27,8 @@ From a list of 20+ companies, I applied strict financial filters:
 - PE Ratio < 40
 - Dividend Yield > 1%
 
-Then I normalized the data (0-1 scale) to allow fair visual comparison.
-Each metric was converted to a "score" — so even if revenue is in £millions and dividends in %, we could still see relative strength.
+Then I normalised the data (0-1 scale) to allow fair visual comparison.
+Each metric was converted to a "score" so even if revenue is in £millions and dividends in %, we could still see relative strength.
 
 🕸 # The Result: Radar Chart
 
@@ -48,7 +48,7 @@ No one company is perfect. But together, these six represent a diversified baske
 # What I Learned
 
 This wasn't just about finding "the best stocks."
-It was about learning how to think like an investor — one who balances:
+It was about learning how to think like an investor one who balances:
 
 - Hard data with
 - Soft observation
@@ -57,17 +57,17 @@ It was about learning how to think like an investor — one who balances:
 
 And most importantly:
 
-> "A good investment isn't just profitable — it's relatable, sustainable, and human-centered."
+> "A good investment isn't just profitable, it's relatable, sustainable, and human-centered."
 
 #  Conclusion: My Investment Philosophy
 
 I now understand why financial analysis is not just about spreadsheets.
-It's about trust, trends, timing — and yes, a little bit of gut feeling.
+It's about trust, trends, timing and yes, a little bit of gut feeling.
 
 So this is my first step.
 And I dedicate it to anyone who ever felt like they weren't "data smart" enough.
 
-Because if I can go from confusion to radar analysis — you can too.
+Because if I can go from confusion to radar analysis, you can too.
 
 #  Repo:
 View the full project here: [https://github.com/ebceran/Investment-Analysis]
