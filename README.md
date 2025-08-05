@@ -1,5 +1,5 @@
 
-# Emine’s Strategic Investment Analysis 🧠📊
+# Emine's Strategic Investment Analysis 
 
 This project includes a financial analysis of 6 global companies using key metrics:
 
