@@ -22,9 +22,8 @@ All metrics are normalized to a 0–1 scale and visualized using a radar chart.
 - Markdown
 - FPDF
 
-#Visual 
+<img width="1104" height="857" alt="Screenshot 2025-08-05 103336" src="https://github.com/user-attachments/assets/f27fd28f-317d-4e38-9fd6-b6796e6f11a4" />
 
-<img width="1104" height="857" alt="Screenshot 2025-08-05 103336" src="https://github.com/user-attachments/assets/4e0db30a-e8ba-4677-a745-7a684b98885f" />
 
 ---
 
