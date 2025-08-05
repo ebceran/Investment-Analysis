@@ -70,4 +70,4 @@ And I dedicate it to anyone who ever felt like they weren't "data smart" enough.
 Because if I can go from confusion to radar analysis — you can too.
 
 #  Repo:
-View the full project here: []
+View the full project here: [https://github.com/ebceran/Investment-Analysis]
